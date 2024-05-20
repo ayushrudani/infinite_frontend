@@ -9,7 +9,7 @@ const Home = () => {
       <Top />
 
       {/* center container mx-auto my-10 */}
-      <div className="container mx-auto my-10">
+      <div className="w-fit mx-auto my-10">
         <LoadMore />
       </div>
     </div>
